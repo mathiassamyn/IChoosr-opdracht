@@ -14,7 +14,17 @@ namespace Api.Repositories
         {
         }
 
-        public IEnumerable<CameraModel> findAll()
+        public IEnumerable<CameraModel> FindAll()
+        {
+            return GetCameras((string[] values) => true);
+        }
+
+        public IEnumerable<CameraModel> FindByName(string name)
+        {
+            return GetCameras((string[] values) => values[0].ToUpper().Contains(name.ToUpper()));
+        }
+
+        private IEnumerable<CameraModel> GetCameras(Func<string[], bool> filterMethod)
         {
             try
             {
@@ -27,11 +37,15 @@ namespace Api.Repositories
 
                     while ((line = sr.ReadLine()) != null)
                     {
-                        if(LineIsValid(line))
+                        if (LineIsValid(line))
                         {
                             var values = line.Split(";");
-                            var camera = new CameraModel(values[0],  float.Parse(values[1]), float.Parse(values[2]));
-                            cameras.Add(camera);
+
+                            if (filterMethod(values))
+                            {
+                                var camera = new CameraModel(values[0], float.Parse(values[1]), float.Parse(values[2]));
+                                cameras.Add(camera);
+                            }
                         }
                     }
 
@@ -48,6 +62,5 @@ namespace Api.Repositories
         {
             return line != null && !line.ToUpper().Contains("ERROR") && line.Split(";").Length == 3;
         }
-
     }
 }

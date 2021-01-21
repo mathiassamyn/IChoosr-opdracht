@@ -6,6 +6,8 @@ namespace Api.Repositories
 {
     public interface ICameraRepository
     {
-        public IEnumerable<CameraModel> findAll();
+        public IEnumerable<CameraModel> FindAll();
+
+        public IEnumerable<CameraModel> FindByName(string name);
     }
 }

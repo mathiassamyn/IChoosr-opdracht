@@ -16,7 +16,12 @@ namespace Api.Services
 
         public IEnumerable<CameraModel> GetCameras()
         {
-            return _cameraRepository.findAll();
+            return _cameraRepository.FindAll();
+        }
+
+        public IEnumerable<CameraModel> GetCamerasByName(string name)
+        {
+            return _cameraRepository.FindByName(name);
         }
     }
 }

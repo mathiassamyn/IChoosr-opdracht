@@ -15,20 +15,18 @@ namespace CLI
                 .BuildServiceProvider();
 
             var cameraService = serviceProvider.GetService<ICameraService>();
-            var cameras = cameraService.GetCameras();
 
             var namePiece = "";
 
             if(args.Length != 0)
             {
-                namePiece = args[0].ToUpper();
+                namePiece = args[0];
             }
 
-            foreach(var camera in cameras) {
-                if (namePiece == "" || camera.Name.ToUpper().Contains(namePiece))
-                {
-                    Console.WriteLine($"{camera.Id} | {camera.Name} | {camera.Latitude} | {camera.Longitude}");
-                }
+            var cameras = cameraService.GetCamerasByName(namePiece);
+
+            foreach (var camera in cameras) {
+                Console.WriteLine($"{camera.Id} | {camera.Name} | {camera.Latitude} | {camera.Longitude}");
             }
 
         }

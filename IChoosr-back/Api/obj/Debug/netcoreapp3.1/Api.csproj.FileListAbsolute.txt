@@ -5,7 +5,6 @@
 /Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/Api/bin/Debug/netcoreapp3.1/Api.runtimeconfig.dev.json
 /Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/Api/bin/Debug/netcoreapp3.1/Api.dll
 /Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/Api/bin/Debug/netcoreapp3.1/Api.pdb
-/Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/Api/obj/Debug/netcoreapp3.1/Api.csprojAssemblyReference.cache
 /Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/Api/obj/Debug/netcoreapp3.1/Api.AssemblyInfoInputs.cache
 /Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/Api/obj/Debug/netcoreapp3.1/Api.AssemblyInfo.cs
 /Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/Api/obj/Debug/netcoreapp3.1/Api.csproj.CoreCompileInputs.cache
