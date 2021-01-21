@@ -18,7 +18,7 @@ namespace Api.Models
 
         private int getIdFromName(string name)
         {
-            var id = name.Split("-")[2].Split(" ")[0];
+            var id = name.Split("-")[2]?.Split(" ")[0];
 
             return Int32.Parse(id);
         }

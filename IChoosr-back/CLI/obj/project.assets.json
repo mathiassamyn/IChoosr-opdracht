@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Api/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Api.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Api.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "Api/1.0.0": {
+      "type": "project",
+      "path": "../Api/Api.csproj",
+      "msbuildProject": "../Api/Api.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Api >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/mathiassamyn/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/CLI/CLI.csproj",
+      "projectName": "CLI",
+      "projectPath": "/Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/CLI/CLI.csproj",
+      "packagesPath": "/Users/mathiassamyn/.nuget/packages/",
+      "outputPath": "/Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/CLI/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/mathiassamyn/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "/Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/Api/Api.csproj": {
+              "projectPath": "/Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/Api/Api.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

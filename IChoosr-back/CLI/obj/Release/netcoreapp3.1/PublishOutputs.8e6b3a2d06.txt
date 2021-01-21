@@ -1,0 +1,8 @@
+/Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/CLI/bin/Release/netcoreapp3.1/publish/appsettings.Development.json
+/Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/CLI/bin/Release/netcoreapp3.1/publish/appsettings.json
+/Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/CLI/bin/Release/netcoreapp3.1/publish/CLI.dll
+/Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/CLI/bin/Release/netcoreapp3.1/publish/CLI.deps.json
+/Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/CLI/bin/Release/netcoreapp3.1/publish/CLI.runtimeconfig.json
+/Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/CLI/bin/Release/netcoreapp3.1/publish/CLI.pdb
+/Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/CLI/bin/Release/netcoreapp3.1/publish/Api.dll
+/Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/CLI/bin/Release/netcoreapp3.1/publish/Api.pdb

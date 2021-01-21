@@ -8,7 +8,7 @@ namespace Api.Repositories
 {
     public class CameraRepository: ICameraRepository
     {
-        private readonly string DB_LOCATION = "./Data/cameras-defb.csv";
+        private readonly string DB_LOCATION = "/Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/Api/Data/cameras-defb.csv";
 
         public CameraRepository()
         {

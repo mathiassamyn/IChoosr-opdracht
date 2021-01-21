@@ -1,0 +1,17 @@
+/Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/CLI/bin/Debug/netcoreapp3.1/CLI.deps.json
+/Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/CLI/bin/Debug/netcoreapp3.1/CLI.runtimeconfig.json
+/Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/CLI/bin/Debug/netcoreapp3.1/CLI.runtimeconfig.dev.json
+/Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/CLI/bin/Debug/netcoreapp3.1/CLI.dll
+/Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/CLI/bin/Debug/netcoreapp3.1/CLI.pdb
+/Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/CLI/obj/Debug/netcoreapp3.1/CLI.csprojAssemblyReference.cache
+/Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/CLI/obj/Debug/netcoreapp3.1/CLI.AssemblyInfoInputs.cache
+/Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/CLI/obj/Debug/netcoreapp3.1/CLI.AssemblyInfo.cs
+/Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/CLI/obj/Debug/netcoreapp3.1/CLI.csproj.CoreCompileInputs.cache
+/Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/CLI/obj/Debug/netcoreapp3.1/CLI.dll
+/Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/CLI/obj/Debug/netcoreapp3.1/CLI.pdb
+/Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/CLI/obj/Debug/netcoreapp3.1/CLI.genruntimeconfig.cache
+/Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/CLI/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/CLI/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/CLI/bin/Debug/netcoreapp3.1/Api.dll
+/Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/CLI/bin/Debug/netcoreapp3.1/Api.pdb
+/Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/CLI/obj/Debug/netcoreapp3.1/CLI.csproj.CopyComplete
