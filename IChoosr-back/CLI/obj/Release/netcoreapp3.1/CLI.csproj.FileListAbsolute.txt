@@ -15,3 +15,4 @@
 /Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/CLI/obj/Release/netcoreapp3.1/CLI.dll
 /Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/CLI/obj/Release/netcoreapp3.1/CLI.pdb
 /Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/CLI/obj/Release/netcoreapp3.1/CLI.genruntimeconfig.cache
+/Users/mathiassamyn/projects/IChoosr/IChoosr-opdracht/IChoosr-back/CLI/bin/Release/netcoreapp3.1/CommandLine.dll
