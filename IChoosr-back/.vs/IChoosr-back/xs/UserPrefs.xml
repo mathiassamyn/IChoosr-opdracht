@@ -1,16 +1,24 @@
 ﻿<Properties StartupConfiguration="{EBDC23EE-AFE9-438E-B0F6-4F88BD5FAA6D}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Api/Data/cameras-defb.txt">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Api/Properties/launchSettings.json">
     <Files>
-      <File FileName="Api/Data/cameras-defb.txt" Line="1" Column="1" />
+      <File FileName="Api/Data/cameras-defb.txt" Line="90" Column="44" />
+      <File FileName="Api/Controllers/WeatherForecastController.cs" Line="26" Column="2" />
+      <File FileName="Api/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="Api/Program.cs" Line="1" Column="1" />
+      <File FileName="Api/Startup.cs" Line="1" Column="1" />
+      <File FileName="Api/appsettings.json" Line="1" Column="1" />
+      <File FileName="Api/Properties/launchSettings.json" Line="15" Column="30" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="IChoosr-back" expanded="True">
             <Node name="Api" expanded="True">
-              <Node name="Data" expanded="True">
-                <Node name="cameras-defb.txt" selected="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="launchSettings.json" selected="True" />
               </Node>
+              <Node name="appsettings.json" expanded="True" />
             </Node>
           </Node>
         </State>
