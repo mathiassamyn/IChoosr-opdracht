@@ -1,4 +1,27 @@
 ﻿<Properties StartupConfiguration="{EBDC23EE-AFE9-438E-B0F6-4F88BD5FAA6D}|Default">
-  <MonoDevelop.Ide.ItemProperties.Api FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Api/Data/cameras-defb.txt">
+    <Files>
+      <File FileName="Api/Data/cameras-defb.txt" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IChoosr-back" expanded="True">
+            <Node name="Api" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="cameras-defb.txt" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Api FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
